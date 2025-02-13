@@ -1,0 +1,33 @@
+body{
+  background-image:url(s1.jpg) ;
+  background-position:center ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  border: 25px black;
+  height: 400px;
+}
+#s1{
+  text-align: center;
+}
+#s2{
+  text-align: center;
+}
+table{
+  align-items: center;
+  background-color: black;
+  align-content: center;
+  box-sizing: content-box;
+  width: 900;
+}
+
+#t2{
+  text-align: center;
+  background-color: rgb(233, 233, 241);
+  word-spacing: 0cqmin;
+  width: fit-content;
+}
+#t3{
+  text-align: center;
+  background-color: rgb(246, 246, 243);
+}
